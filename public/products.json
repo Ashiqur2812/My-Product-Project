@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "image": "https://i.ibb.co.com/Jqsbvdx/photo-1612858249937-1cc0852093dd-w-500-auto-format-fit-crop-q-60-ixlib-rb-4-0.jpg",
+      "description": "High-quality wireless headphones with noise-canceling feature.",
+      "price": 149,
+      "category": "Electronics",
+      "isFeature": true
+    },
+    {
+      "id": 2,
+      "name": "Smartwatch",
+      "image": "https://i.ibb.co.com/DbgszSB/smart-watch-with-number-90-face-1249034-29307.jpg",
+      "description": "Water-resistant smartwatch with multiple health tracking features.",
+      "price": 199,
+      "category": "Wearables",
+      "isFeature": false
+    },
+    {
+      "id": 3,
+      "name": "Gaming Laptop",
+      "image": "https://i.ibb.co.com/qL62NHk/laptop-with-purple-background-purple-screen-that-saysxon-it-1277297-28887.jpg",
+      "description": "Powerful gaming laptop with high-end graphics and processor.",
+      "price": 1299,
+      "category": "Computers",
+      "isFeature": true
+    },
+    {
+      "id": 4,
+      "name": "Bluetooth Speaker",
+      "image": "https://i.ibb.co.com/2sk5mWg/composition-smart-speaker-table-23-2149036844.jpg",
+      "description": "Portable Bluetooth speaker with deep bass and long battery life.",
+      "price": 99,
+      "category": "Audio",
+      "isFeature": false
+    },
+    {
+      "id": 5,
+      "name": "4K LED TV",
+      "image": "https://i.ibb.co.com/p12pJFp/television-houseplants-room-scene-generative-ai-188544-12145.jpg",
+      "description": "50-inch 4K LED television with HDR support for stunning visuals.",
+      "price": 549,
+      "category": "Home Appliances",
+      "isFeature": true
+    },
+    {
+      "id": 6,
+      "name": "Fitness Tracker",
+      "image": "https://i.ibb.co.com/dBv9pgG/runner-monitoring-his-heart-rate-smartwatch-773186-1220.jpg",
+      "description": "Sleek fitness tracker with heart rate and sleep monitoring.",
+      "price": 59,
+      "category": "Wearables",
+      "isFeature": false
+    }
+  ]
+}
